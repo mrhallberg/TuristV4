@@ -1,0 +1,28 @@
+P - Hvordan vi har løst de opgaver det blev sat, og beggrundelser for løsningsmodeller (descriptive)
+A - En datamatikerklasse på første semester
+C - En præsentation af programmet, og hvordan vi har kodet det
+E - Demo som vores midel
+D - Backup, hop rundt! (Steve Ballmer)
+
+
+introduktion
+	-
+vis diagrammer
+	-DomainModel
+		-Attributer i de forskellige klasser
+		-Hvordan de relatere til hinanden
+	-DesignClassDiagram
+	-SequenceDiagram
+præsentation af programmet
+	-design
+	-problemer
+	-videreudvikling/fremtidige planer
+vis del af kode
+	-login klasse/User.cs
+	-datastyring med xml
+	-sprog (ChangeLanguage)
+	-ViewModel løsninger
+Konklusion
+	-Opnået vores mål
+	-Løst problemer
+	-Udbytte

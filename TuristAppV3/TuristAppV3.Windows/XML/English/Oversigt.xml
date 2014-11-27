@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<oversigt>
+  <kategori>
+    <title>Transport</title>
+    <image>ms-appx:///Billeder/Transport.png</image>
+    <text>Roskilde has a wide selection of transport. Below you can find a list of them.</text>
+    <id>0</id>
+  </kategori>
+  <kategori>
+    <title>Hotels</title>
+    <image>ms-appx:///Billeder/Hotel.png</image>
+    <text>Roskilde has a wide selection of hotels. Below you can find a list of them.</text>
+    <id>1</id>
+  </kategori>
+  <kategori>
+    <title>Experiences</title>
+    <image>ms-appx:///Billeder/Oplevelser.png</image>
+    <text>Roskilde possess a wide range of experiences. Below you can find a list of them.</text>
+    <id>2</id>
+  </kategori>
+  <kategori>
+    <title>Resturants</title>
+    <image>ms-appx:///Billeder/Restaurant.png</image>
+    <text>Roskilde has a wide selection of restaurants. Below you can find a list of them.</text>
+    <id>3</id>
+  </kategori>
+</oversigt>

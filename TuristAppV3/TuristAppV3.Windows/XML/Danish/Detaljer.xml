@@ -1,0 +1,303 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<detaljer>
+  <item>
+    <title>Bus</title>
+    <text>Movia tilbyder et bredt udvalg af rutebusser i Roskilde og Danmark</text>
+    <image>ms-appx:///Billeder/Transport_Bus.png</image>
+    <oversigt>0</oversigt>
+    <phoneTitle>Telefon</phoneTitle>
+    <phone>
+      <phoneName>Kundeservice</phoneName>
+      <phoneNumber>77 77 77 77</phoneNumber>
+    </phone>
+    <openTitle>Åbningstider</openTitle>
+    <open>
+      <dag>Hverdage</dag>
+      <tid>00.00-24.00</tid>
+    </open>
+    <open>
+      <dag>Lørdag</dag>
+      <tid>00.00-24.00</tid>
+    </open>
+    <open>
+      <dag>Søndag</dag>
+      <tid>00.00-24.00</tid>
+    </open>
+    <open>
+      <dag>Helligdage</dag>
+      <tid>10.00-24.00</tid>
+    </open>
+    <link>http://www.dsb.dk</link>
+  </item>
+  <item>
+    <title>Tog</title>
+    <text>Med DSB toge kommer du altid til tiden. Uanset hvor du vil hen.</text>
+    <image>ms-appx:///Billeder/Transport_Tog.png</image>
+    <oversigt>0</oversigt>
+    <phoneTitle>Telefon</phoneTitle>
+    <phone>
+      <phoneName>Kundeservice</phoneName>
+      <phoneNumber>77 77 77 77</phoneNumber>
+    </phone>
+    <openTitle>Åbningstider</openTitle>
+    <open>
+      <dag>Hverdage</dag>
+      <tid>00.00-24.00</tid>
+    </open>
+    <open>
+      <dag>Lørdag</dag>
+      <tid>00.00-24.00</tid>
+    </open>
+    <open>
+      <dag>Søndag</dag>
+      <tid>00.00-24.00</tid>
+    </open>
+    <link>http://www.dsb.dk</link>
+  </item>
+  <item>
+    <title>Taxa</title>
+    <text>Danske taxaer findes overalt, og hver taxa er en ny rejse.</text>
+    <image>ms-appx:///Billeder/Transport_Taxa.png</image>
+    <oversigt>0</oversigt>
+    <phoneTitle>Telefon</phoneTitle>
+    <phone>
+      <phoneName>Kundeservice</phoneName>
+      <phoneNumber>77 77 77 77</phoneNumber>
+    </phone>
+    <openTitle>Åbningstider</openTitle>
+    <open>
+      <dag>Hverdage</dag>
+      <tid>00.00-24.00</tid>
+    </open>
+    <open>
+      <dag>Lørdag</dag>
+      <tid>00.00-24.00</tid>
+    </open>
+    <open>
+      <dag>Søndag</dag>
+      <tid>00.00-24.00</tid>
+    </open>
+    <link>http://www.taxa.dk</link>
+  </item>
+  <item>
+    <title>Comwell</title>
+    <text>Comwell Roskilde ligger ved Roskilde fjord med smuk udsigt over vandet.</text>
+    <image>ms-appx:///Billeder/Hotel_Comwell.png</image>
+    <oversigt>1</oversigt>
+    <phoneTitle>Telefon</phoneTitle>
+    <phone>
+      <phoneName>Kundeservice</phoneName>
+      <phoneNumber>77 77 77 77</phoneNumber>
+    </phone>
+    <openTitle>Åbningstider</openTitle>
+    <open>
+      <dag>Check ind</dag>
+      <tid>14.00-22.00</tid>
+    </open>
+    <open>
+      <dag>Check ud</dag>
+      <tid>06.00-11.00</tid>
+    </open>
+    <link>http://www.comwell.dk</link>
+  </item>
+  <item>
+    <title>Prindsen</title>
+    <text>Hotel Prindsen tilbyder alt fra overnatning, til møder og konferencer.</text>
+    <image>ms-appx:///Billeder/Hotel_Prindsen.png</image>
+    <oversigt>1</oversigt>
+    <phoneTitle>Telefon</phoneTitle>
+    <phone>
+      <phoneName>Kundeservice</phoneName>
+      <phoneNumber>77 77 77 77</phoneNumber>
+    </phone>
+    <openTitle>Åbningstider</openTitle>
+    <open>
+      <dag>Hverdage</dag>
+      <tid>00.00-24.00</tid>
+    </open>
+    <open>
+      <dag>Lørdag</dag>
+      <tid>00.00-24.00</tid>
+    </open>
+    <open>
+      <dag>Søndag</dag>
+      <tid>00.00-24.00</tid>
+    </open>
+    <link>http://www.prindsen.dk</link>
+  </item>
+  <item>
+    <title>Scandic</title>
+    <text>Scandic sigter efter at dit ophold på en af deres 230 hoteller er positivt.</text>
+    <image>ms-appx:///Billeder/Hotel_Scandic.png</image>
+    <oversigt>1</oversigt>
+    <phoneTitle>Telefon</phoneTitle>
+    <phone>
+      <phoneName>Kundeservice</phoneName>
+      <phoneNumber>77 77 77 77</phoneNumber>
+    </phone>
+    <openTitle>Åbningstider</openTitle>
+    <open>
+      <dag>Hverdage</dag>
+      <tid>00.00-24.00</tid>
+    </open>
+    <open>
+      <dag>Lørdag</dag>
+      <tid>00.00-24.00</tid>
+    </open>
+    <open>
+      <dag>Søndag</dag>
+      <tid>00.00-24.00</tid>
+    </open>
+    <link>http://www.Scandic.dk</link>
+  </item>
+  <item>
+    <title>Musicon</title>
+    <text>Musicon er godt på vej til at blive en spændende bydel med et levende bymiljø.</text>
+    <image>ms-appx:///Billeder/Oplevelser_Musicon.png</image>
+    <oversigt>2</oversigt>
+    <phoneTitle>Telefon</phoneTitle>
+    <phone>
+      <phoneName>Kundeservice</phoneName>
+      <phoneNumber>77 77 77 77</phoneNumber>
+    </phone>
+    <openTitle>Åbningstider</openTitle>
+    <open>
+      <dag>Hverdage</dag>
+      <tid>00.00-24.00</tid>
+    </open>
+    <open>
+      <dag>Lørdag</dag>
+      <tid>00.00-24.00</tid>
+    </open>
+    <open>
+      <dag>Søndag</dag>
+      <tid>00.00-24.00</tid>
+    </open>
+    <link>http://www.musicon.dk</link>
+  </item>
+  <item>
+    <title>Ro's Torv</title>
+    <text>Besøg vores 70 butikker, find masser af tilbud og oplev vores gode spisesteder.</text>
+    <image>ms-appx:///Billeder/Oplevelser_Rostorv.png</image>
+    <oversigt>2</oversigt>
+    <phoneTitle>Telefon</phoneTitle>
+    <phone>
+      <phoneName>Kundeservice</phoneName>
+      <phoneNumber>77 77 77 77</phoneNumber>
+    </phone>
+    <openTitle>Åbningstider</openTitle>
+    <open>
+      <dag>Hverdage</dag>
+      <tid>10.00-19.00</tid>
+    </open>
+    <open>
+      <dag>Lørdag</dag>
+      <tid>10.00-16.00</tid>
+    </open>
+    <open>
+      <dag>Søndag</dag>
+      <tid>11.00-16.00</tid>
+    </open>
+    <link>http://www.rostorv.dk</link>
+  </item>
+  <item>
+    <title>Skibsmuseum</title>
+    <text>Vikingeskibsmuseet er et museum i Roskilde. Museets tema er skibe, søfart og bådebygningskultur.</text>
+    <image>ms-appx:///Billeder/Oplevelser_Vikingeskibsmuseum.png</image>
+    <oversigt>2</oversigt>
+    <phoneTitle>Telefon</phoneTitle>
+    <phone>
+      <phoneName>Kundeservice</phoneName>
+      <phoneNumber>77 77 77 77</phoneNumber>
+    </phone>
+    <openTitle>Åbningstider</openTitle>
+    <open>
+      <dag>Hverdage</dag>
+      <tid>10.00-16.00</tid>
+    </open>
+    <open>
+      <dag>Lørdag</dag>
+      <tid>10.00-16.00</tid>
+    </open>
+    <open>
+      <dag>Søndag</dag>
+      <tid>10.00-16.00</tid>
+    </open>
+    <link>http://www.vikingeskibsmuseum.dk</link>
+  </item>
+  <item>
+    <title>Vivaldi</title>
+    <text>Kig ind og nyd en god kop kaffe, læs dagens avis eller få stillet din sult.</text>
+    <image>ms-appx:///Billeder/Restaurant_Vivaldi.png</image>
+    <oversigt>3</oversigt>
+    <phoneTitle>Telefon</phoneTitle>
+    <phone>
+      <phoneName>Kundeservice</phoneName>
+      <phoneNumber>77 77 77 77</phoneNumber>
+    </phone>
+    <openTitle>Åbningstider</openTitle>
+    <open>
+      <dag>Hverdage</dag>
+      <tid>10.00-22.00</tid>
+    </open>
+    <open>
+      <dag>Lørdag</dag>
+      <tid>10.00-22.30</tid>
+    </open>
+    <open>
+      <dag>Søndag</dag>
+      <tid>10.00-22.00</tid>
+    </open>
+    <link>http://www.vivaldi.dk</link>
+  </item>
+  <item>
+    <title>Prindsen</title>
+    <text>I et af Danmarks ældste hoteller ligger Restaurant Prindsen, med mad til hele dagen.</text>
+    <image>ms-appx:///Billeder/Restaurant_Prindsen.png</image>
+    <oversigt>3</oversigt>
+  <phoneTitle>Telefon</phoneTitle>
+  <phone>
+    <phoneName>Kundeservice</phoneName>
+    <phoneNumber>77 77 77 77</phoneNumber>
+  </phone>
+  <openTitle>Åbningstider</openTitle>
+    <open>
+      <dag>Hverdage</dag>
+      <tid>11.00-23.00</tid>
+    </open>
+    <open>
+      <dag>Lørdag</dag>
+      <tid>11.00-24.00</tid>
+    </open>
+    <open>
+      <dag>Søndag</dag>
+      <tid>11.00-22.00</tid>
+    </open>
+    <link>http://www.prindsen.dk</link>
+  </item>
+  <item>
+    <title>Jensens Bøfhus</title>
+    <text>Nyd en lækker, saftig bøf på vores hyggelige restaurant i hjertet af Roskilde.</text>
+    <image>ms-appx:///Billeder/Restaurant_Jensens.png</image>
+    <oversigt>3</oversigt>
+    <phoneTitle>Telefon</phoneTitle>
+    <phone>
+      <phoneName>Kundeservice</phoneName>
+      <phoneNumber>77 77 77 77</phoneNumber>
+    </phone>
+    <openTitle>Åbningstider</openTitle>
+    <open>
+      <dag>Hverdage</dag>
+      <tid>11.00-22.00</tid>
+    </open>
+    <open>
+      <dag>Lørdag</dag>
+      <tid>11.00-23.00</tid>
+    </open>
+    <open>
+      <dag>Søndag</dag>
+      <tid>11.00-22.00</tid>
+    </open>
+    <link>http://www.jensens.dk</link>
+  </item>
+</detaljer>
