@@ -171,6 +171,7 @@
     <Content Include="Billeder\Transport_Bus.png" />
     <Content Include="Billeder\Transport_Taxa.png" />
     <Content Include="Billeder\Transport_Tog.png" />
+    <Content Include="TextFile1.txt" />
     <Content Include="XML\Danish\Detaljer.xml" />
     <Content Include="XML\English\Detaljer.xml" />
     <Content Include="XML\English\Oversigt.xml" />

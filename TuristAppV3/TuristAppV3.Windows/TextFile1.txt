@@ -1,0 +1,7 @@
+﻿UseCase:
+Brugeren henter appen i Windows Store.
+Brugeren opretter/logger ind i appen.
+Brugeren vælger en attraktion.
+Brugeren vælger sprog i appen.
+Brugeren læser om de forskellige attraktioner.
+
